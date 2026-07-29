@@ -28,42 +28,42 @@ Elettronica, Elettrotecnica, Machine Learning, Linux (Fedora, Mint), Sviluppo So
 ## Istruzione e Formazione
 
 `sett 2025 - presente`&emsp;Milano, Italia<br>
-&emsp;&emsp; **Politecnico di Milano** <br>
-&emsp;&emsp; Laurea magistrale in Computer Science and Engineering <br>
-&emsp;&emsp; Traccia: Artificial Intelligence
+ **Politecnico di Milano** <br>
+ Laurea magistrale in Computer Science and Engineering <br>
+ Traccia: Artificial Intelligence
 
 `sett 2021 - mar 2025`&emsp;Milano, Italia<br>
-&emsp;&emsp; **Politecnico di Milano** <br>
-&emsp;&emsp; Laurea breve in Ingegneria Informatica <br>
-&emsp;&emsp; Votazione: 108/110 <br>
+ **Politecnico di Milano** <br>
+ Laurea breve in Ingegneria Informatica <br>
+ Votazione: 108/110 <br>
 
 `sett 2016 - lug 2021`&emsp;Palermo, Italia<br>
-&emsp;&emsp; **ITST "Vittorio Emanuele III"** <br>
-&emsp;&emsp; Diploma Istituto Tecnico, Informatica <br>
-&emsp;&emsp; Votazione: 100/100 <br>
-&emsp;&emsp; Attività: Alternanza scuola-lavoro in imprenditorialità e start-up innovative.
+ **ITST "Vittorio Emanuele III"** <br>
+ Diploma Istituto Tecnico, Informatica <br>
+ Votazione: 100/100 <br>
+ Attività: Alternanza scuola-lavoro in imprenditorialità e start-up innovative.
 
 
 ## Esperienza lavorativa
 
 `set 2024 - mar 2026`&emsp;Da remoto<br>
-&emsp;&emsp; **Insegnante privato** (Autonomo)<br>
-&emsp;&emsp; Insegnante privato di Inglese, Matematica e Informatica a studenti delle scuole superiori di secondo grado.
+ **Insegnante privato** (Autonomo)<br>
+ Insegnante privato di Inglese, Matematica e Informatica a studenti delle scuole superiori di secondo grado.
 
 `lug 2020 - ago 2020`&emsp;Donnalucata, Italia<br>
-&emsp;&emsp; **Junior Receptionist** presso Donnalucata Resort<br>
-&emsp;&emsp; Accoglienza, contabilità, teamwork e comunicazione.
+ **Junior Receptionist** presso Donnalucata Resort<br>
+ Accoglienza, contabilità, teamwork e comunicazione.
 
 
 ## Progetti
 
 `nov 2025 - dic 2025`&emsp;**Perceived pain & Breast cancer classification**<br>
-&emsp;&emsp; *Artificial neural networks & Deep Learning Challenges*<br>
-&emsp;&emsp; Modelli di classificazione supervisionata: un ensemble di CNN 1D-bidirezionale LSTM per la predizione del dolore tramite time series, e reti neurali per la classificazione di immagini istologiche di cancro al seno (accuratezza 35% su dataset sbilanciato, uso di GradCAM). Stesura di report tecnici dettagliati.
+ *Artificial neural networks & Deep Learning Challenges*<br>
+ Modelli di classificazione supervisionata: un ensemble di CNN 1D-bidirezionale LSTM per la predizione del dolore tramite time series, e reti neurali per la classificazione di immagini istologiche di cancro al seno. Stesura di report tecnici dettagliati.
 
 `feb 2024 - giu 2024`&emsp;**Board game GUI (Codex naturalis)**<br>
-&emsp;&emsp; *Software engineering project*<br>
-&emsp;&emsp; Implementazione client-server di un gioco da tavolo in Java e JavaFX, focalizzato su architettura OOP, UX e sviluppo agile. Sviluppata sia GUI che TUI.
+ *Software engineering project*<br>
+ Implementazione client-server di un gioco da tavolo in Java e JavaFX, focalizzato su architettura OOP, UX e sviluppo agile. Sviluppata sia GUI che TUI.
 
 
 ## Licenze e Certificazioni
@@ -88,6 +88,6 @@ Elettronica, Elettrotecnica, Machine Learning, Linux (Fedora, Mint), Sviluppo So
 
 `Inglese` Scritto: C1, Parlato: C1
 
-<!-- ### Footer
+<!-- ### Footer -->
 
-Last updated: lug 2026 -->
+Last updated: lug 2026
