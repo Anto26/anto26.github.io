@@ -15,7 +15,7 @@ Studente al Politecnico di Milano
 
 <br>
 
-<img src="photo.jpg" width=300></img>
+<img src="photo.jpg" width=300>
 
 ## Al momento
 
