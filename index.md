@@ -89,5 +89,3 @@ Elettronica, Elettrotecnica, Machine Learning, Linux (Fedora, Mint), Sviluppo So
 `Inglese` Scritto: C1, Parlato: C1
 
 <!-- ### Footer -->
-
-Last updated: lug 2026
