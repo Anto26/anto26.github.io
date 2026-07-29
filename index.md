@@ -15,7 +15,7 @@ Studente al Politecnico di Milano
 
 <br>
 
-<img src="photo.jpg" width=300>
+<img src="photo.jpg" width=200>
 
 ## Al momento
 
@@ -27,17 +27,17 @@ Elettronica, Elettrotecnica, Machine Learning, Linux (Fedora, Mint), Sviluppo So
 
 ## Istruzione e Formazione
 
-`sett 2025 - presente`&emsp;Milano, Italia<br>
+`sett 2025 - presente` Milano, Italia<br>
  **Politecnico di Milano** <br>
  Laurea magistrale in Computer Science and Engineering <br>
  Traccia: Artificial Intelligence
 
-`sett 2021 - mar 2025`&emsp;Milano, Italia<br>
+`sett 2021 - mar 2025` Milano, Italia<br>
  **Politecnico di Milano** <br>
  Laurea breve in Ingegneria Informatica <br>
  Votazione: 108/110 <br>
 
-`sett 2016 - lug 2021`&emsp;Palermo, Italia<br>
+`sett 2016 - lug 2021` Palermo, Italia<br>
  **ITST "Vittorio Emanuele III"** <br>
  Diploma Istituto Tecnico, Informatica <br>
  Votazione: 100/100 <br>
@@ -46,22 +46,22 @@ Elettronica, Elettrotecnica, Machine Learning, Linux (Fedora, Mint), Sviluppo So
 
 ## Esperienza lavorativa
 
-`set 2024 - mar 2026`&emsp;Da remoto<br>
+`set 2024 - mar 2026` Da remoto<br>
  **Insegnante privato** (Autonomo)<br>
  Insegnante privato di Inglese, Matematica e Informatica a studenti delle scuole superiori di secondo grado.
 
-`lug 2020 - ago 2020`&emsp;Donnalucata, Italia<br>
+`lug 2020 - ago 2020` Donnalucata, Italia<br>
  **Junior Receptionist** presso Donnalucata Resort<br>
  Accoglienza, contabilità, teamwork e comunicazione.
 
 
 ## Progetti
 
-`nov 2025 - dic 2025`&emsp;**Perceived pain & Breast cancer classification**<br>
+`nov 2025 - dic 2025` **Perceived pain & Breast cancer classification**<br>
  *Artificial neural networks & Deep Learning Challenges*<br>
  Modelli di classificazione supervisionata: un ensemble di CNN 1D-bidirezionale LSTM per la predizione del dolore tramite time series, e reti neurali per la classificazione di immagini istologiche di cancro al seno. Stesura di report tecnici dettagliati.
 
-`feb 2024 - giu 2024`&emsp;**Board game GUI (Codex naturalis)**<br>
+`feb 2024 - giu 2024` **Board game GUI (Codex naturalis)**<br>
  *Software engineering project*<br>
  Implementazione client-server di un gioco da tavolo in Java e JavaFX, focalizzato su architettura OOP, UX e sviluppo agile. Sviluppata sia GUI che TUI.
 
