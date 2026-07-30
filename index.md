@@ -46,6 +46,10 @@ Elettronica, Elettrotecnica, Machine Learning, Linux (Fedora, Mint), Sviluppo So
 
 ## Esperienza lavorativa
 
+ `set 2025 - mar 2026` Milano, Italia<br>
+ **Supporto didattico agli studenti** presso Politecnico di Milano<br>
+ Attività di supporto didattico agli studenti durante il laboratorio di Fondamenti di Informatica.
+
 `set 2024 - mar 2026` Da remoto<br>
  **Insegnante privato** (Autonomo)<br>
  Insegnante privato di Inglese, Matematica e Informatica a studenti delle scuole superiori di secondo grado.
