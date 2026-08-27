@@ -82,19 +82,19 @@ Machine Learning, Elettronica, Web development, Sviluppo Software, Linux (Fedora
 
 ## Competenze tecniche
 
-* **Linguaggi di Programmazione**: Python, Java, C++, C, JavaScript, PHP, VHDL, R, SQL.
+*   **Linguaggi di Programmazione**: Python, Java, C++, C, JavaScript, PHP, VHDL, R, SQL.
 
-* **Framework e Librerie**: PyTorch, NumPy, Pandas, JavaFX, Electron.js, Node.js, DataTables, JDBC, Servlet, JSP.
+*   **Framework e Librerie**: PyTorch, NumPy, Pandas, JavaFX, Electron.js, Node.js, DataTables, JDBC, Servlet, JSP.
 
-* **Paradigmi e Metodologie**: Object-Oriented Programming (OOP), Model–View–Controller (MVC), Model-View-ViewModel (MVVM), Sviluppo Web back-end, Sviluppo software.
+*   **Paradigmi e Metodologie**: Object-Oriented Programming (OOP), Model–View–Controller (MVC), Model-View-ViewModel (MVVM), Sviluppo Web back-end, Sviluppo software.
 
-* **Basi di Dati**: Progettazione database relazionali(modello Entità-Relazione, concettuale e logica), MySQL, SQLite.
+*   **Basi di Dati**: Progettazione database relazionali(modello Entità-Relazione, concettuale e logica), MySQL, SQLite.
 
-* **Intelligenza Artificiale e Machine Learning**: Reti neurali, Deep Learning, Convolutional Neural Networks (CNN), Machine Learning.
+*   **Intelligenza Artificiale e Machine Learning**: Reti neurali, Deep Learning, Convolutional Neural Networks (CNN), Machine Learning.
 
-* **Sistemi e Reti**: Reti informatiche e protocolli noti (ARP, RARP, IEEE 802.3, VLAN, NAT, ICMP, RIP, OSPF, IP, TCP, UDP, FTP, DNS, DHCP, HTTP, HTTPS, SSH, Telnet, SMTP, IMAP, POP3), Reti logiche (progettazione logica tramite VHDL e Xilinx Vivado), Hardware di base (HDD, SSD, CPU, alimentatore, cablaggio), Linux (Linux Mint, Fedora, Ubuntu), Windows 11.
+*   **Sistemi e Reti**: Reti informatiche e protocolli noti (ARP, RARP, IEEE 802.3, VLAN, NAT, ICMP, RIP, OSPF, IP, TCP, UDP, FTP, DNS, DHCP, HTTP, HTTPS, SSH, Telnet, SMTP, IMAP, POP3), Reti logiche (progettazione logica tramite VHDL e Xilinx Vivado), Hardware di base (HDD, SSD, CPU, alimentatore, cablaggio), Linux (Linux Mint, Fedora, Ubuntu), Windows 11.
 
-* **Altri Strumenti**: LaTeX, Markdown, Word Processor (Microsoft Word, LibreOffice Write), Fogli di calcolo (e.g. Microsoft Excel, LibreOffice Calc), Presentazioni (Microsoft PowerPoint, LibreOffice Impress).
+*   **Altri Strumenti**: LaTeX, Markdown, Word Processor (Microsoft Word, LibreOffice Write), Fogli di calcolo (e.g. Microsoft Excel, LibreOffice Calc), Presentazioni (Microsoft PowerPoint, LibreOffice Impress).
 
 
 ## Competenze linguistiche
