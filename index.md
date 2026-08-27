@@ -9,7 +9,7 @@ title: Antonino Ciancimino's CV
 |
   <a href="https://github.com/Anto26">GitHub</a>
 |
-  <a href="https://www.linkedin.com/in/antonino-ciancimino-892852170/" >LinkedIn</a>
+  <a href="https://www.linkedin.com/in/antonino-ciancimino-892852170/">LinkedIn</a>
 </div>
 
 <br>
@@ -65,40 +65,43 @@ Machine Learning, Elettronica, Web development, Sviluppo Software, Linux (Fedora
  Modelli di classificazione supervisionata: ensemble di architetture ibride (CNN 1D & LSTM bidirezionali) per la predizione del dolore percepito, partendo da serie temporali degli angoli delle articolazioni; CNN di vario genere per la classificazione di immagini istologiche di tumore al seno.
  Ognuno dei due progetti è stato corredato da un report tecnico dettagliato.
 
-`feb 2024 - giu 2024` **Gioco da tavolo GUI (Codex naturalis)**<br>
+`feb 2024 - giu 2024` **Gioco da tavolo (<a href="https://craniocreations.it/products/codex-naturalis">Codex Naturalis<\a> della Cranio Creations)**<br>
  *Progetto di Ingegneria del Software*<br>
  Implementazione client-server di un gioco da tavolo in Java e JavaFX, focalizzata su architettura OOP, UX e sviluppo agile. Sono state sviluppate sia un'interfaccia GUI, che una TUI.
 
 
 ## Licenze e Certificazioni
 
-*   **Version control with Git** - Politecnico di Milano (mag 2024)
-*   **Huawei Seeds For the Future** - Huawei (ott 2023)
-*   **Stress Management** - Politecnico di Milano (giu 2023)
-*   **Telling Science** - Politecnico di Milano (dic 2022)
+**Version control with Git** - Politecnico di Milano (mag 2024)
+
+**Huawei Seeds For the Future** - Huawei (ott 2023)
+
+**Stress Management** - Politecnico di Milano (giu 2023)
+
+**Telling Science** - Politecnico di Milano (dic 2022)
 
 
 ## Competenze tecniche
 
-*   **Linguaggi di Programmazione**: Python, Java, C++, C, JavaScript, PHP, VHDL, R, SQL.
+**Linguaggi di Programmazione**: Python, Java, C++, C, JavaScript, PHP, VHDL, R, SQL.
 
-*   **Framework e Librerie**: PyTorch, NumPy, Pandas, JavaFX, Electron.js, Node.js, DataTables, JDBC, Servlet, JSP.
+**Framework e Librerie**: PyTorch, NumPy, Pandas, JavaFX, Electron.js, Node.js, DataTables, JDBC, Servlet, JSP.
 
-*   **Paradigmi e Metodologie**: Object-Oriented Programming (OOP), Model–View–Controller (MVC), Model-View-ViewModel (MVVM), Sviluppo Web back-end, Sviluppo software.
+**Paradigmi e Metodologie**: Object-Oriented Programming (OOP), Model–View–Controller (MVC), Model-View-ViewModel (MVVM), Sviluppo Web back-end, Sviluppo software.
 
-*   **Basi di Dati**: Progettazione database relazionali(modello Entità-Relazione, concettuale e logica), MySQL, SQLite.
+**Basi di Dati**: Progettazione database relazionali(modello Entità-Relazione, concettuale e logica), MySQL, SQLite.
 
-*   **Intelligenza Artificiale e Machine Learning**: Reti neurali, Deep Learning, Convolutional Neural Networks (CNN), Machine Learning.
+**Intelligenza Artificiale e Machine Learning**: Reti neurali, Deep Learning, Convolutional Neural Networks (CNN), Machine Learning.
 
-*   **Sistemi e Reti**: Reti informatiche e protocolli noti (ARP, RARP, IEEE 802.3, VLAN, NAT, ICMP, RIP, OSPF, IP, TCP, UDP, FTP, DNS, DHCP, HTTP, HTTPS, SSH, Telnet, SMTP, IMAP, POP3), Reti logiche (progettazione logica tramite VHDL e Xilinx Vivado), Hardware di base (HDD, SSD, CPU, alimentatore, cablaggio), Linux (Linux Mint, Fedora, Ubuntu), Windows 11.
+**Sistemi e Reti**: Reti informatiche e protocolli noti (ARP, RARP, IEEE 802.3, VLAN, NAT, ICMP, RIP, OSPF, IP, TCP, UDP, FTP, DNS, DHCP, HTTP, HTTPS, SSH, Telnet, SMTP, IMAP, POP3), Reti logiche (progettazione logica tramite VHDL e Xilinx Vivado), Hardware di base (HDD, SSD, CPU, alimentatore, cablaggio), Linux (Linux Mint, Fedora, Ubuntu), Windows 11.
 
-*   **Altri Strumenti**: LaTeX, Markdown, Word Processor (Microsoft Word, LibreOffice Write), Fogli di calcolo (e.g. Microsoft Excel, LibreOffice Calc), Presentazioni (Microsoft PowerPoint, LibreOffice Impress).
+**Altri Strumenti**: LaTeX, Markdown, Word Processor (Microsoft Word, LibreOffice Write), Fogli di calcolo (e.g. Microsoft Excel, LibreOffice Calc), Presentazioni (Microsoft PowerPoint, LibreOffice Impress).
 
 
 ## Competenze linguistiche
 
-`ITALIANO` Madrelingua
+`Madrelingua` Italiano
 
-`INGLESE` Scritto: C1, Parlato: C1
+`Scritto: C1, Parlato: C1` Inglese
 
 <!-- ### Footer -->
