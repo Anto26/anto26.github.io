@@ -49,10 +49,9 @@ Machine Learning, Elettronica, Web development, Sviluppo Software, Linux (Fedora
  **Insegnante privato** (Autonomo)<br>
  Insegnante privato di Inglese, Matematica, Informatica e Fisica a vari studenti delle Scuole superiori di secondo grado.
 
-`set 2025 - mar 2026` Milano, Italia
-**Supporto didattico agli studenti** presso Politecnico di Milano
-Attività di supporto didattico agli studenti durante il laboratorio di Fondamenti di Informatica (docente prof. Salvatore Andolina, laboratorio condotto dal dott. Riccardo Medana).
- 
+`set 2025 - mar 2026` Milano, Italia<br>
+ **Supporto didattico agli studenti** presso Politecnico di Milano<br>
+ Attività di supporto didattico agli studenti durante il laboratorio di Fondamenti di Informatica (docente prof. Salvatore Andolina, laboratorio condotto dal dott. Riccardo Medana).
 
 `lug 2020 - ago 2020` Donnalucata, Italia<br>
  **Junior Receptionist** presso Donnalucata Resort<br>
