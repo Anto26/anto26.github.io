@@ -63,10 +63,9 @@ Machine Learning, Elettronica, Web development, Sviluppo Software, Linux (Fedora
 `nov 2025 - dic 2025` **Classificazione del dolore percepito & Classificazione di tumori al seno**<br>
  *Sfida del corso Artificial Neural Networks and Deep Learning*<br>
  Modelli di classificazione supervisionata.
-  - Ensemble di architetture ibride (CNN 1D & LSTM bidirezionali) per la predizione del dolore partendo da serie temporali degli angoli delle articolazioni
-  - CNN di vario genere per la classificazione di immagini istologiche di tumore al seno.
-
-Ognuno dei due progetti è stato corredato da un report tecnico dettagliato.
+ 1. Ensemble di architetture ibride (CNN 1D & LSTM bidirezionali) per la predizione del dolore partendo da serie temporali degli angoli delle articolazioni
+ 2. CNN di vario genere per la classificazione di immagini istologiche di tumore al seno.
+ Ognuno dei due progetti è stato corredato da un report tecnico dettagliato.
 
 `feb 2024 - giu 2024` **Gioco da tavolo GUI (Codex naturalis)**<br>
  *Progetto di Ingegneria del Software*<br>
