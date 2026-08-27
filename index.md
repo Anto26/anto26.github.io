@@ -65,7 +65,7 @@ Machine Learning, Elettronica, Web development, Sviluppo Software, Linux (Fedora
  Modelli di classificazione supervisionata: ensemble di architetture ibride (CNN 1D & LSTM bidirezionali) per la predizione del dolore percepito, partendo da serie temporali degli angoli delle articolazioni; CNN di vario genere per la classificazione di immagini istologiche di tumore al seno.
  Ognuno dei due progetti è stato corredato da un report tecnico dettagliato.
 
-`feb 2024 - giu 2024` **Gioco da tavolo** (<a href="https://craniocreations.it/products/codex-naturalis">Codex Naturalis<\a> della Cranio Creations)<br>
+`feb 2024 - giu 2024` **Gioco da tavolo** (<a href="https://craniocreations.it/products/codex-naturalis">Codex Naturalis</a> della Cranio Creations)<br>
  *Progetto di Ingegneria del Software*<br>
  Implementazione client-server di un gioco da tavolo in Java e JavaFX, focalizzata su architettura OOP, UX e sviluppo agile. Sono state sviluppate sia un'interfaccia GUI, che una TUI.
 
