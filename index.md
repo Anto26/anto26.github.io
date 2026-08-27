@@ -72,15 +72,15 @@ Implementazione client-server di un gioco da tavolo in Java e JavaFX, focalizzat
 
 ## Licenze e Certificazioni
 
-**Formatore iscritto al Registro dei Formatori della Regione Siciliana (S.ARF)** (<a href="https://sarf.regione.sicilia.it/accreditamento/public/iscritto-registro/65226">profilo</a>) - Sicilia (ago 2026)
+`ago 2026` **Formatore iscritto al Registro dei Formatori della Regione Siciliana (S.ARF)** (<a href="https://sarf.regione.sicilia.it/accreditamento/public/iscritto-registro/65226">profilo</a>) - Sicilia
 
-**Version control with Git** - Politecnico di Milano (mag 2024)
+`mag 2024` **Version control with Git** - Politecnico di Milano
 
-**Huawei Seeds For the Future** - Huawei (ott 2023)
+`ott 2023` **Huawei Seeds For the Future** - Huawei
 
-**Stress Management** - Politecnico di Milano (giu 2023)
+`giu 2023` **Stress Management** - Politecnico di Milano
 
-**Telling Science** - Politecnico di Milano (dic 2022)
+`dic 2022` **Telling Science** - Politecnico di Milano
 
 
 ## Competenze tecniche
